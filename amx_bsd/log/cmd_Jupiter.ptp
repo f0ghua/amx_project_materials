@@ -1,0 +1,108 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+UDP:10.0.12.29:48630
+COM2
+9600
+2
+63
+4
+0
+0
+
+COMMDISPLAY
+0
+
+SEND
+0
+Input1-2_volIncrease
+43 43 20 32 33 36 20 31 20 34 30 39 35 0D
+0
+5
+
+SEND
+1
+Input1-2_volDecrease
+43 43 20 32 33 36 20 30 20 34 30 39 35 0D
+0
+5
+
+SEND
+2
+Input3_volIncrease
+43 43 20 31 33 36 20 31 20 34 30 39 36 0D
+0
+5
+
+SEND
+3
+Input3_volDecrease
+43 43 20 31 33 36 20 30 20 34 30 39 35 0D
+0
+5
+
+SEND
+4
+Input4_volIncrease
+43 43 20 31 34 36 20 31 20 34 30 39 35 0D
+0
+5
+
+SEND
+5
+Input4_volDecrease
+43 43 20 31 34 36 20 30 20 34 30 39 35 0D
+0
+5
+
+SEND
+6
+modeSpeaker
+4C 50 20 32 0D
+0
+5
+
+SEND
+7
+modeVedio
+4C 50 20 31 0D
+0
+5
+
+SEND
+8
+setEcho
+53 65 74 20 45 63 68 6F 0D
+0
+5
+
+SEND
+9
+setQuietMode
+53 65 74 20 51 75 69 65 74 20 4D 6F 64 65
+0
+5
+
+SEND
+10
+Input1-2_setVolMin
+43 53 20 32 33 36 20 30 0D
+0
+5
+
+SEND
+11
+Input1-2_setVolMax
+43 53 20 32 33 36 20 36 35 35 33 35 0D
+0
+5
+
+SEND
+12
+Input1-2_getVol
+47 53 20 32 33 36 0D
+0
+5
+

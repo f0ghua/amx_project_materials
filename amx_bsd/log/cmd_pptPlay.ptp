@@ -1,0 +1,59 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+UDP:192.168.0.48:3900
+COM2
+9600
+2
+63
+4
+0
+0
+
+COMMDISPLAY
+0
+
+SEND
+0
+vedioPlay
+24 43 31 7C
+0
+5
+
+SEND
+1
+vedioStop
+24 45 7C
+0
+5
+
+SEND
+2
+pptOpen
+24 47 41 31 7C
+0
+5
+
+SEND
+3
+pptPrev
+24 47 43 7C
+0
+5
+
+SEND
+4
+pptNext
+24 47 44 7C
+0
+5
+
+SEND
+5
+pptClose
+24 47 42 7C
+0
+5
+
